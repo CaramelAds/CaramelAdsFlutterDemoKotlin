@@ -26,11 +26,6 @@ The main code for launching is located in the Android project, it does not have 
 2. Add compiler options and dependency to build.gradle (app) in the Android project:
 
           ```
-          compileOptions {
-             targetCompatibility JavaVersion.VERSION_1_8
-             sourceCompatibility JavaVersion.VERSION_1_8
-           }
-
             dependencies {
               ...
               implementation('com.caramelads:sdk:10.7.0.0')
@@ -86,11 +81,6 @@ The main code for launching is located in the Android project, it does not have 
 3. Добавьте зависимость и опции компилятора в build.gradle (app) в проекте Android:
 
         ```
-        compileOptions {
-           targetCompatibility JavaVersion.VERSION_1_8
-           sourceCompatibility JavaVersion.VERSION_1_8
-         }
-
           dependencies {
             ...
             implementation('com.caramelads:sdk:10.7.0.0')

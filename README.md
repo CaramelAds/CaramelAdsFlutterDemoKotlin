@@ -21,7 +21,7 @@ The main code for launching is located in the Android project, it does not have 
               jcenter()
               maven {url "https://maven.caramelads.com/repository/maven-releases"}
               maven {url "https://android-sdk.is.com/"}
-              maven {url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"}       
+              maven {url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"}
               maven {url "https://sdk.tapjoy.com/"}
               maven {url "https://artifact.bytedance.com/repository/pangle"}
             }
@@ -77,7 +77,7 @@ The main code for launching is located in the Android project, it does not have 
               jcenter()
               maven {url "https://maven.caramelads.com/repository/maven-releases"}
               maven {url "https://android-sdk.is.com/"}
-              maven {url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"}       
+              maven {url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"}
               maven {url "https://sdk.tapjoy.com/"}
               maven {url "https://artifact.bytedance.com/repository/pangle"}
             }

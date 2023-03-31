@@ -1,10 +1,8 @@
-<h1 align="center">Caramel 10.10.1.0</h1>
+<h1 align="center">Caramel 10.10.3.0</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E67E22&multiline=true&width=435&lines=Caramel+AD+Kotlin+Flutter+Android)](https://git.io/typing-svg)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-Version 10.7.0.0
 
 ## ENG ( RUS version below )
 ### How to use:
@@ -34,7 +32,7 @@ The main code for launching is located in the Android project, it does not have 
           ```
             dependencies {
               ...
-              implementation('com.caramelads:sdk:10.10.1.0')
+              implementation('com.caramelads:sdk:10.10.3.0')
               ...
             }
             ```
@@ -89,7 +87,7 @@ The main code for launching is located in the Android project, it does not have 
         ```
           dependencies {
             ...
-            implementation('com.caramelads:sdk:10.10.1.0')
+            implementation('com.caramelads:sdk:10.10.3.0')
             ...
           }
           ```

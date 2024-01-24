@@ -55,8 +55,9 @@ android {
 
     dependencies {
         //Caramel
-        implementation('com.caramelads:sdk:10.10.5.0')
+        implementation('com.caramelads:sdk:10.10.6.0')
     }
+    namespace 'com.caramelads.carameldemoflutter.caramel_ads_flutter_demo'
 }
 
 flutter {
